@@ -1,0 +1,10 @@
+* monkeylib-text-languages
+
+Framework for building languages that can be output using monkeylib-text-output.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gigamonkey/monkeylib-text-languages.git   |
+| commit  | ffb8f15  |
+| systems | monkeylib-text-languages |
+|---------+-------------------------------------------|
+
