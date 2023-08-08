@@ -5,5 +5,5 @@ Framework for building languages that can be output using monkeylib-text-output.
 |---------+----------------------------------------------------------------|
 | source  | git:https://github.com/gigamonkey/monkeylib-text-languages.git |
 | commit  | ffb8f15                                                        |
-| systems | com.gigamonkeys.text-languages                                 |
+| systems | monkeylib-text-languages                                       |
 |---------+----------------------------------------------------------------|
